@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\GerenciaDirectorios\GerenciaDirectorios\bin\Debug\GerenciaDirectorios.exe.config
+E:\Documents\Visual Studio 2015\Projects\GerenciaDirectorios\GerenciaDirectorios\obj\Debug\GerenciaDirectorios.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\GerenciaDirectorios\GerenciaDirectorios\bin\Debug\GerenciaDirectorios.exe
+E:\Documents\Visual Studio 2015\Projects\GerenciaDirectorios\GerenciaDirectorios\bin\Debug\GerenciaDirectorios.pdb
+E:\Documents\Visual Studio 2015\Projects\GerenciaDirectorios\GerenciaDirectorios\obj\Debug\GerenciaDirectorios.exe
+E:\Documents\Visual Studio 2015\Projects\GerenciaDirectorios\GerenciaDirectorios\obj\Debug\GerenciaDirectorios.pdb
